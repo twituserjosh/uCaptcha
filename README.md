@@ -7,3 +7,5 @@
 requires python3
 
 ill update this documentation at a later date when im not lazy
+
+ill add multi-gmail support later
