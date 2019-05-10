@@ -60,7 +60,7 @@ for email,password in credentials:
         time.sleep(6)
         search_engine = driver.find_element_by_xpath('//*[@id="video-title"]').click()
         print ('Watching Youtube Video')
-        time.sleep(5)
+        time.sleep(200)
 
         print ('Finished Youtube Video.')
         print ('----------------------------------')
