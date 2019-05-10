@@ -1,11 +1,15 @@
 # uCaptcha
 Logs into Gmail account and runs selenium script to mimic human behavior to get 1 click captchas.
 
+1) Install python 3.x
+2) Download / clone this repo
+3) CD into the folder and run "pip install -r requirements.txt"
+4) Change the config file with your Gmail(s)
+5) run "python main.py
+6) ????
 
-CD into the folder and run "pip install -r requirements.txt"
-"python main.py"
-requires python3
-
-ill update this documentation at a later date when im not lazy
-
-ill add multi-gmail support later
+To Do:
+- [x] Run infinitely
+- [x] Better Documentation
+- [ ] Multi-Gmail Support
+- [ ] Will to live
